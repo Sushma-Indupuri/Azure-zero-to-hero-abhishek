@@ -34,6 +34,8 @@ Elasticity in cloud computing refers to the ability to dynamically scale resourc
 
 Agility is the capability of quickly and easily adapting to changes. In the context of cloud computing, it involves the rapid deployment of resources and applications.
 
+
+Helps in quick and inexpensive re-provisioning of resources.
 ## High Availability
 
 High Availability (HA) ensures that a system or application is operational and accessible for a high percentage of time, typically 99.9% or higher.
