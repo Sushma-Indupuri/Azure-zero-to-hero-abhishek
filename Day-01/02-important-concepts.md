@@ -7,7 +7,7 @@ Virtualization is the process of creating a virtual version of something, such a
 ## Virtual Machine
 
 A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
-
+A VM is a virtualized instance of a computer that can perform almost all of the same functions as a computer, including running applications and operating systems. Virtual machines run on a physical machine and access computing resources from software called a hypervisor.
 ## API (Application Programming Interface)
 
 API is a set of rules and protocols that allows different software applications to communicate with each other. It defines how software components should interact.
